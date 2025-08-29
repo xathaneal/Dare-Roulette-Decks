@@ -95,12 +95,19 @@
         "Suggested by Hynagshine: Bunny hop and repeat 'I'm a fluffy bunny' in a complete circle",
         "Suggested by Hynagshine: Do the chicken dance while balancing on one foot",
         "Suggested by LittleJodie: Be a good dog/cat and bark/meow. (A real bark/meow)",
-        "Suggested by Hyangshine: Sit on the lap of the user you find the most attractive until it's their turn.",
-        "Suggested by VaderNotFound: DROP AND GIVE ME 20 (Push ups, sit ups, squats. If you can’t do 20 do however many you can).",
         "[Group Drink] Dang yall be thirsty, everybody get a drink of water.",
         "Have a shot with <player>! Soda or Alcohol. かんぱい!",
         "You need to loosen up a bit more, take a drink of soda/alcohol.",
+        "Suggested by VaderNotFound: DROP AND GIVE ME 20 (Push ups, sit ups, squats. If you can’t do 20 do however many you can).",
+        "Suggested by Hyangshine: Sit on the lap of the user you find the most attractive until it's their turn.",
         "Suggested by RemDed: Hydration check! Go drink water you dehydrated fuck. Also re-roll.",
-        "Suggested by Hyandshine: Grab a full glass of water and chug it (willing participants may join in)"
+        "Suggested by Hyandshine: Grab a full glass of water and chug it (willing participants may join in)",
+        "Suggested by beatpropaganda: Go do your dishes. You've put them off for long enough. If you did them already, re-roll.",
+        "Suggested by beatpropaganda: Move your laundry around. Can't have wrinkles on your shirts. If you did them already, re-roll.",
+        "Suggested by beatpropaganda: Clear everything off your counter and wipe it down. Clean, clean, clean! If you did this already, re-roll.",
+        "Suggested by beatpropaganda: Sweep/vaccum your floors, they dusty. If you did this already, re-roll.",
+        "Suggested by beatpropaganda: You rolled a D20 and got a <range[1-20]>. 1-10, You are manually breathing. 11-20 mundane spell has no effect.",
+        "Suggested by beatpropaganda: Pick up all your things off the floor. Stop being lazy. If you did this already, re-roll.",
+        "Suggested by beatpropaganda: Take out your grabage. It stank. If you did this already, re-roll."
     ]
 }
