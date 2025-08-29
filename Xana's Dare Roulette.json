@@ -1,6 +1,8 @@
 {
     "DeckName": "Xana's Dare Roulette",
+
     "DeckBy": "Xathaneal & Lastation Community",
+
     "Truths": [
         "There are not Truth Cards in this deck. The Rules are simple: You must 100% commit to the prompt on screen. Numbers are presented to indicate that the deck is rotating. There are no re-rolls unless prompted in the card on screen. 1",
         "There are not Truth Cards in this deck. The Rules are simple: You must 100% commit to the prompt on screen. Numbers are presented to indicate that the deck is rotating. There are no re-rolls unless prompted in the card on screen. 2",
@@ -76,7 +78,9 @@
         "Suggested by Hyangshine: Use a toy (or your fingers) and show the audience how well you deepthroat. Make it vocal and/or sloppy~.",
         "Suggested by Hyangshine: If you're a Dom, grab the subbiest volunteer and fluster them (turn ends when the fold). If you're a Sub, find the dom who interests you the most and kneel at their feet (turn ends when they fold).",
         "Suggested by Hyangshine: Get on your hands and knees and seductively crawl back to your seat.",
-        "Suggested by Hyangshine: Present yourself to a willing volunteer and let them choose how many times you spank yourself.",
+        "Suggested by Hyangshine: Present yourself to a willing volunteer and let them choose how many times you spank yourself."
+    ],
+    "Lewd_Player_Dares": [
         "Go make out with <player> for <range[10-30]> seconds and make it sensual~.",
         "[Challenge] : See if you can fluster <player>. If you are successful in flustering them they must take a dare from you. If you fail, you take a dare from them.",
         "Find <player> in the room. (Popcorn jump if your name is here). If they have the [Phantom Sense] tag start touching them all over until they ask you to stop. If they do not have this tag -OR- are busy with another dare, re-roll.",
@@ -115,12 +119,16 @@
         "Suggested by LittleJodie: Kiss the feet of <player> as if you're worshiping them.",
         "Suggested by LittleJodie: Pick a friend and a stranger to bully you sexually. If you can't pick someone, your friend will.",
         "Suggested by LittleJodie: Admit your weirdest sexual fantasy and ask if anyone wants to do it with you or shares the fantasy.",
-        "Suggested by LittleJodie: If you have edible lube eat some. If you have regular lube use it on a toy and get busy until your next turn.",
+        "Suggested by LittleJodie: If you have edible lube eat some. If you have regular lube use it on a toy and get busy until your next turn."
+    ],
+    "Drinking_Dares": [
         "[Group Drink] Dang yall be thirsty, everybody get a drink of water.",
         "Have a shot with <player>! Soda or Alcohol. かんぱい!",
         "You need to loosen up a bit more, take a drink of soda/alcohol.",
         "Suggested by RemDed: Hydration check! Go drink water you dehydrated fuck. Also re-roll.",
-        "Suggested by Hyandshine: Grab a full glass of water and chug it (willing participants may join in)",
+        "Suggested by Hyandshine: Grab a full glass of water and chug it (willing participants may join in)"
+    ],
+    "SFW_Dares": [
         "Headpats for <player>!",
         "Anytime <player> talks to you, you must end it off with 'Your L33tness' till your next turn.",
         "Anytime <player> talks to you, you must end it off with 'my liege' till your next turn.",
